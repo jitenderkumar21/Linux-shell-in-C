@@ -14,3 +14,5 @@ rmdir
 
 - Remove the directory (Alerts if no such file or directory)
 ls - List contents of pwd
+
+Other commands have also been implemented
